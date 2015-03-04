@@ -1,0 +1,114 @@
+﻿Build started 27/05/2013 8:16:03 CH.
+     1>Project "D:\lap trinh c++\TraiTim\TraiTim.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\TraiTim.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt abc.cpp
+         abc.cpp
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(6): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(7): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(8): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(9): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): error C2065: 'n' : undeclared identifier
+     1>d:\lap trinh c++\traitim\abc.cpp(10): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "D:\lap trinh c++\TraiTim\TraiTim.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.77

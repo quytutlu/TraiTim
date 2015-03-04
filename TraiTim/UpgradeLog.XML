@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TraiTim">
+</Property><Property Name="Solution File" Value="D:\lap trinh c++\TraiTim\TraiTim.sln">
+</Property><Property Name="User Options File" Value="D:\lap trinh c++\TraiTim\TraiTim.suo">
+</Property><Property Name="Date" Value="26 Tháng Năm 2013">
+</Property><Property Name="Time" Value="19:39 CH">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TraiTim.sln" Description="File successfully backed up as D:\lap trinh c++\TraiTim\TraiTim.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="TraiTim.suo" Description="File successfully backed up as D:\lap trinh c++\TraiTim\TraiTim.suo.old">
+</Event><Event ErrorLevel="0" Project="TraiTim" Source="TraiTim.vcproj" Description="Converting project file 'D:\lap trinh c++\TraiTim\TraiTim.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TraiTim" Source="TraiTim.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="TraiTim" Source="TraiTim.vcproj" Description="Done converting to new project file 'D:\lap trinh c++\TraiTim\TraiTim.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TraiTim" Source="TraiTim.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TraiTim.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TraiTim.sln" Description="Converted">
+</Event></UpgradeLog>
